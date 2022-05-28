@@ -1,10 +1,10 @@
 {
-    "version": "3.0",
+    "version": "2.3",
     "description": "Parametric 2D/3D CAD tool",
     "homepage": "https://github.com/solvespace/solvespace",
     "license": "GPL-3.0",
-    "url": "https://github.com/solvespace/solvespace/releases/download/v3.0/SolveSpace.exe",
-    "hash": "802abf3230342038b943e67c32ab7a98ffe4e4f376ad85a7c4da2c3246b66acd",
+    "url": "https://github.com/solvespace/solvespace/releases/download/v2.3/SolveSpace.exe",
+    "hash": "65287e8cde133fe79a06105375dc78408d424419d583e4a10ff7f10eb9bf52d9",
     "bin": "solvespace.exe",
     "shortcuts": [
         [
