@@ -1,12 +1,12 @@
 {
-    "version": "2021.7.2",
+    "version": "2022.5.0",
     "description": "HTTP and GraphQL client",
     "homepage": "https://insomnia.rest",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Kong/insomnia/releases/download/core%402021.7.2/insomnia-2021.7.2-full.nupkg",
-            "hash": "sha1:1693ec8d7a5ced235164651b1cbd1283542990ae"
+            "url": "https://github.com/Kong/insomnia/releases/download/core%402022.5.0/insomnia-2022.5.0-full.nupkg",
+            "hash": "sha1:630ed815090000c052786deb6a5d176f9af426da"
         }
     },
     "extract_dir": "lib\\net45",
