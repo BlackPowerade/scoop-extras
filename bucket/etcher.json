@@ -1,10 +1,10 @@
 {
-    "version": "1.8.5",
+    "version": "1.8.13",
     "description": "Flash OS images to SD cards & USB drives, safely and easily.",
     "homepage": "https://www.balena.io/etcher/",
     "license": "Apache-2.0",
-    "url": "https://github.com/balena-io/etcher/releases/download/v1.8.5/balenaEtcher-Setup-1.8.5.exe#/dl.7z",
-    "hash": "sha512:2ada9110dcf6353095bb19c47a3904f7d982d234f79bd7962ae9050522e09219e10055a4b12c1add993b82d085e38bb952afd0b51340000538287a3497435f9e",
+    "url": "https://github.com/balena-io/etcher/releases/download/v1.8.13/balenaEtcher-Setup-1.8.13.exe#/dl.7z",
+    "hash": "sha512:84f2c60fe6c7163bc813f3c3696141846f64b7db4c80f12c6858f0a5bedaeebf8811c12d972a5249942f731c0e30c5890fb1ffc7c8efec343509b2c8cc9f85b1",
     "architecture": {
         "64bit": {
             "installer": {
