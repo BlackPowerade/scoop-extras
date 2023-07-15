@@ -1,10 +1,10 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A simple Windows app for minimizing windows to tray icons",
     "homepage": "https://github.com/fcFn/traymond",
     "license": "MIT",
-    "url": "https://github.com/fcFn/traymond/releases/download/v1.0.3/Traymond.exe",
-    "hash": "b797c12a5079012f057addd5389d9de6052d044219650fd894966baf77ffd686",
+    "url": "https://github.com/fcFn/traymond/releases/download/v1.0.4/Traymond.exe",
+    "hash": "4c87f96849d38d083199316a5afdd6e9cc1206825a1fcbcd00e5150a6e808a23",
     "bin": "Traymond.exe",
     "shortcuts": [
         [
